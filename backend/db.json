@@ -1,0 +1,81 @@
+{
+    "quizzes": [
+        {
+            "id": 1,
+            "name": "Conhecimentos Gerais",
+            "numQuestions": 10,
+            "questions": [
+                {
+                    "question": "Qual é o maior país do mundo em área?",
+                    "res1": "Rússia",
+                    "res2": "Canadá",
+                    "res3": "China",
+                    "res4": "Estados Unidos"
+                },
+                {
+                    "question": "Qual é a capital do Brasil?",
+                    "res1": "Brasília",
+                    "res2": "São Paulo",
+                    "res3": "Rio de Janeiro",
+                    "res4": "Salvador"
+                },
+                {
+                    "question": "Quantos continentes existem no mundo?",
+                    "res1": "Sete",
+                    "res2": "Cinco",
+                    "res3": "Seis",
+                    "res4": "Oito"
+                },
+                {
+                    "question": "Qual é o maior animal terrestre?",
+                    "res1": "Elefante",
+                    "res2": "Girafa",
+                    "res3": "Hipopótamo",
+                    "res4": "Rinoceronte"
+                },
+                {
+                    "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+                    "res1": "Marte",
+                    "res2": "Vênus",
+                    "res3": "Júpiter",
+                    "res4": "Saturno"
+                },
+                {
+                    "question": "Qual é o principal órgão do sistema circulatório?",
+                    "res1": "Coração",
+                    "res2": "Pulmão",
+                    "res3": "Estômago",
+                    "res4": "Fígado"
+                },
+                {
+                    "question": "Quem foi o primeiro presidente do Brasil?",
+                    "res1": "Deodoro da Fonseca",
+                    "res2": "Getúlio Vargas",
+                    "res3": "Juscelino Kubitschek",
+                    "res4": "Lula"
+                },
+                {
+                    "question": "Qual é o idioma oficial da França?",
+                    "res1": "Francês",
+                    "res2": "Inglês",
+                    "res3": "Alemão",
+                    "res4": "Espanhol"
+                },
+                {
+                    "question": "Quantos lados tem um triângulo?",
+                    "res1": "Três",
+                    "res2": "Quatro",
+                    "res3": "Cinco",
+                    "res4": "Seis"
+                },
+                {
+                    "question": "Qual é o estado brasileiro conhecido como 'Terra da Garoa'?",
+                    "res1": "São Paulo",
+                    "res2": "Rio de Janeiro",
+                    "res3": "Minas Gerais",
+                    "res4": "Bahia"
+                }
+            ]
+        }
+    ]
+}
